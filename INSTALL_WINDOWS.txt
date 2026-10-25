@@ -1,0 +1,14 @@
+Speaker Cue Mapper — Windows Edition
+
+1. Install 64-bit Python 3.11 or 3.12 from python.org. Include Tcl/Tk.
+2. Extract this ZIP to a normal folder.
+3. Double-click setup_windows.bat.
+4. Double-click run_windows.bat.
+5. Choose a MIDI file for direct note timing, or choose MP3/MP4 for approximate pitch detection.
+6. Click Play and focus Roblox during the 3-second countdown.
+
+If Windows keyboard input still fails, first make sure both the app and Roblox are running normally (not as Administrator) and Roblox is focused. If Roblox is explicitly running elevated, input may require matching privilege levels. Avoid running either app as Administrator unless needed.
+
+The app's Windows SendInput structure has been corrected to include the full INPUT union required by 64-bit Windows. This build was syntax-checked but not tested on a live Windows machine in this environment.
+
+URL input: paste a direct HTTP(S) media-file URL or a supported webpage URL (such as a YouTube watch URL) into Sound URL and click Decode URL sound. Setup checks for yt-dlp and installs it into the local .venv if missing. Login/DRM restrictions are not bypassed; only download media you have permission to use.
