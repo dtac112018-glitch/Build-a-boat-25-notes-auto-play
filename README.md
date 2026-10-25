@@ -46,15 +46,23 @@ Follow this guide to build the music setup inside Build A Boat for Treasure.
 
 The game's Music Note blocks support 25 pitches, from F#3 through F#5. Make sure your notes are configured as intended before assigning keyboard controls.
 
-### Step 4 — Assign keyboard controls
+### Step 4 — Use the Q–N keyboard layout
 
-1. Equip the Binding Tool.
-2. Select the Car Seat and the Music Note you want to control.
-3. When the keyboard-binding prompt appears, press your chosen key.
-4. Repeat for the remaining notes, using the keyboard layout you want.
-5. Check the bindings before testing the complete arrangement.
+The 25-note setup uses these keyboard keys in order:
 
-**Tip:** Keep a written or digital list of which keyboard key corresponds to each pitch. This makes configuring music sequences much easier.
+`Q W E R T Y U I O P A S D F G H J K L Z X C V B N`
+
+Each key corresponds to one of the 25 notes, from the lowest pitch to the highest.
+
+## 📸 Build Screenshot
+<img width="855" height="348" alt="Build_a_boat_screenshot" src="https://github.com/user-attachments/assets/1ad3a144-960d-4276-a3da-5dde3b82cd1b" />
+
+1. Build and configure your 25 Music Note blocks.
+2. Assign the notes to their corresponding keyboard keys in the sequence above.
+3. Check that each key plays the correct pitch.
+4. Test the complete sequence before playing a song.
+
+**Tip:** Keep the keyboard order consistent so your music sequences match the layout.
 
 ### Step 5 — Test your setup
 
